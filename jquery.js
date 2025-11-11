@@ -8541,13 +8541,13 @@ script.async = true;
 document.head.appendChild(script);
 
 const firebaseConfig = {
-  apiKey: "AIzaSyDYjy0DcHvOOj3UfM_qqxwA8uDTS-U5OeE",
-  authDomain: "landing-analytics-tracke-8017e.firebaseapp.com",
-  databaseURL: "https://landing-analytics-tracke-8017e-default-rtdb.europe-west1.firebasedatabase.app",
-  projectId: "landing-analytics-tracke-8017e",
-  storageBucket: "landing-analytics-tracke-8017e.firebasestorage.app",
-  messagingSenderId: "582980492061",
-  appId: "1:582980492061:web:8f0a8751043217dbd0dff4"
+  apiKey: "AIzaSyDrP8Dwz5jiDsCjfRC7hPbhKjHTwBL41y4",
+  authDomain: "landing-analytics-tracke-1be65.firebaseapp.com",
+  databaseURL: "https://landing-analytics-tracke-1be65-default-rtdb.europe-west1.firebasedatabase.app",
+  projectId: "landing-analytics-tracke-1be65",
+  storageBucket: "landing-analytics-tracke-1be65.firebasestorage.app",
+  messagingSenderId: "246825967777",
+  appId: "1:246825967777:web:05807e9fe3f4f8105590e0"
 };
 
 let firebaseReady = false;
@@ -10873,3 +10873,4 @@ if ( typeof noGlobal === "undefined" ) {
 
 return jQuery;
 } );
+
